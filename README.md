@@ -10,7 +10,13 @@ https://user-images.githubusercontent.com/60665347/205989354-0b9b26d8-e6b6-401e-
 
 ## Digital Painting 
 
-Oil Painting
+![Slide1](https://user-images.githubusercontent.com/60665347/205990130-274b6d36-a258-480e-b3f2-fa5ea039f25d.PNG)
+![Slide2](https://user-images.githubusercontent.com/60665347/205990134-2a63db1b-a3ae-491e-8a45-82ecfa924436.PNG)
+![Slide3](https://user-images.githubusercontent.com/60665347/205990136-ad9097b6-e095-49c8-a3f6-a78c6c6e0962.PNG)
+
+![toronto](https://user-images.githubusercontent.com/60665347/205990159-ae37ad6e-2932-40d1-84e1-a67175fa6744.png)
+
+## Oil Painting
 ![1](https://user-images.githubusercontent.com/60665347/205989603-1d351732-58eb-4253-8a49-5f32f47cd92a.JPG)
 ![2](https://user-images.githubusercontent.com/60665347/205989611-15b902fe-a620-4e0b-9a8b-2f3792aec9a4.JPG)
 ![3](https://user-images.githubusercontent.com/60665347/205989613-d0dbd483-1202-4d22-8d65-38792415a25f.JPG)
